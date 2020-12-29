@@ -1,4 +1,4 @@
-package com.example.demo.utils
+package br.com.twofa.server.utils
 
 import kotlin.math.pow
 
