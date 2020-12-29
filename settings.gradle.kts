@@ -1,1 +1,1 @@
-rootProject.name = "demo"
+rootProject.name = "2fa-server"

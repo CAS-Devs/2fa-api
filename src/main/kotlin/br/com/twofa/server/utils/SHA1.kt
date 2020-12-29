@@ -1,4 +1,4 @@
-package com.example.demo.utils
+package br.com.twofa.server.utils
 
 import java.math.BigInteger
 import java.security.MessageDigest
